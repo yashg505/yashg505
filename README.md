@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashg505
 - 👀 I’m interested in data science and analytics, big data
-- 🌱 I’m currently learning big data
+- 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me yashgourav505@gmail.com
 
